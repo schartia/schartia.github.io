@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://schartia.github.io/sitemap
+Sitemap: https://schartia.github.io/app/sitemap
+Sitemap: https://schartia.github.io/assets/sitemap
+Sitemap: https://schartia.github.io/css/sitemap
+Sitemap: https://schartia.github.io/includes/sitemap
+Sitemap: https://schartia.github.io/item/sitemap
+Sitemap: https://schartia.github.io/src/sitemap
